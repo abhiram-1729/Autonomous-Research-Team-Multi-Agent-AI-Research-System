@@ -1,3 +1,5 @@
+Here's your updated README.md with the deployed link added:
+
 # 🤖 Autonomous Research Team - Multi-Agent AI Research System
 
 <div align="center">
@@ -8,9 +10,11 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Powered-green.svg)
 ![Supabase](https://img.shields.io/badge/Supabase-Database%20Backend-purple.svg)
 
+**🚀 Live Demo: [https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/)**
+
 **An intelligent multi-agent system that autonomously conducts research using specialized AI agents working in collaboration**
 
-[Demo](#demo) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Contributing](#contributing)
+[Live Demo](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Contributing](#contributing)
 
 </div>
 
@@ -36,6 +40,7 @@ The Autonomous Research Team is a sophisticated AI-powered research assistant th
 - **⚡ Async Processing**: Efficient parallel task execution
 - **📊 Quality Assurance**: Built-in critique and validation system
 - **🔒 Environment Config**: Secure API key management
+- **🌐 Live Deployment**: Accessible online via Streamlit Cloud
 
 ## 🛠️ Technology Stack
 
@@ -47,16 +52,22 @@ The Autonomous Research Team is a sophisticated AI-powered research assistant th
 | **Database** | Supabase (PostgreSQL) |
 | **Search** | DuckDuckGo Search API |
 | **Language** | Python 3.8+ |
+| **Deployment** | Streamlit Cloud |
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### 🌐 Try It Online
+Visit the live application: **[https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/)**
+
+### 💻 Local Development
+
+#### Prerequisites
 
 - Python 3.8 or higher
 - Google Gemini API key
 - Supabase account (optional, for database features)
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
@@ -188,6 +199,18 @@ graph TD
 - Database integration
 - Session loading and deletion
 
+## 🚀 Deployment
+
+### Streamlit Cloud Deployment
+The application is deployed on Streamlit Cloud and accessible at:
+**[https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/)**
+
+### Deploy Your Own Instance
+1. Fork this repository
+2. Connect to [Streamlit Cloud](https://streamlit.io/cloud)
+3. Configure secrets in the Streamlit dashboard
+4. Deploy automatically from GitHub
+
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
@@ -239,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [CrewAI](https://www.crewai.com/) for the multi-agent framework
 - [Google Gemini](https://deepmind.google/technologies/gemini/) for AI capabilities
-- [Streamlit](https://streamlit.io/) for the web interface
+- [Streamlit](https://streamlit.io/) for the web interface and deployment platform
 - [Supabase](https://supabase.com/) for database backend
 
 ## 📞 Contact
@@ -248,6 +271,7 @@ For questions, suggestions, or collaborations, please reach out:
 
 - **Project Maintainer**: Abhiram Rangoon
 - **Email**: abhiramrangoon@gmail.com
+- **Live Demo**: [https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/)
 
 ---
 
@@ -257,4 +281,17 @@ For questions, suggestions, or collaborations, please reach out:
 
 *If this project helps your research, please give it a ⭐!*
 
+**[🚀 Try it now!](https://autonomous-research-team-multi-agent-ai-research-system-f9euhb.streamlit.app/)**
+
 </div>
+
+## Key Changes Made:
+1. ✅ **Added the deployed link** prominently at the top in the header
+2. ✅ **Added "Live Demo" badge** and section
+3. ✅ **Updated the features list** to include deployment
+4. ✅ **Added deployment section** with instructions
+5. ✅ **Updated technology stack** to include Streamlit Cloud
+6. ✅ **Added contact section** with the live demo link
+7. ✅ **Added call-to-action button** at the bottom
+
+Now your README clearly shows that the project is live and deployed! 🎉
